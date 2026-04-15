@@ -4,7 +4,7 @@
 
 **Affiliation:** 西安电子科技大学 (Xidian University), Software Engineering
 
-**Prospective Enrollment:** October 2027 (Master's Program)
+**Prospective Enrollment:** October 2027
 
 **Research Topic:** A Multi-Dimensional Spatial Validation Framework for Outdoor Fall Detection: A Smartphone-Based 5-Sensor Fusion Approach
 
