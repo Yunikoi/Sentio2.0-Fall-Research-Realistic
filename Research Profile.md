@@ -28,7 +28,7 @@ The primary objective of this research is to develop a robust fall detection evi
 - Evaluate the synergistic effect of integrating atmospheric (Barometer) and inertial sensors.
 - Quantify the reduction in false-positive rates by using a 5-dimensional validation framework compared to traditional 3-axis IMU methods.
 - Establish a deterministic "Evidence Chain" of a fall event to ensure high-fidelity alerting.
-
+-
 ------
 
 ## 3. 研究方法 (Methodology)
